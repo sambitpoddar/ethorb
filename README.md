@@ -73,7 +73,7 @@ We welcome contributions from the community to improve EthOrb! Whether it's repo
 
 ## Support
 
-If you encounter any issues or have any questions about EthOrb, please don't hesitate to [open an issue](https://github.com/ethorb/ethorb/issues) on GitHub. Our team is here to help you resolve any problems and provide support as needed.
+If you encounter any issues or have any questions about EthOrb, please don't hesitate to [open an issue](https://github.com/ethorb/ethorb/issues) on GitHub. Our community is here to help you resolve any problems and provide support as needed.
 
 ## License
 
