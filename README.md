@@ -1,6 +1,6 @@
 <center><img src="https://github.com/sambitpoddar/ethorb/blob/main/ethorblogo.png" alt="EthOrb Logo" width="300"/></center>
 
-# EthOrb: A Powerful for seamless interaction with Ethereum blockchain networks.
+# EthOrb: A powerful toolkit for seamless interaction with Ethereum blockchain networks.
 
 Welcome to EthOrb, a powerful Python package for interacting with Ethereum blockchain networks.
 
