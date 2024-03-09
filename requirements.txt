@@ -1,0 +1,4 @@
+web3
+eth-utils
+eth-account
+requests
