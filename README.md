@@ -59,7 +59,7 @@ For more detailed usage instructions and examples, please refer to the [Usage Gu
 
 ## Documentation
 
-For comprehensive documentation, including installation instructions, usage guides, API references, and more, please visit the [EthOrb Documentation](index.md).
+For comprehensive documentation, including installation instructions, usage guides, and more, please visit the [EthOrb Documentation](index.md).
 
 ## Authors
 
@@ -77,7 +77,7 @@ If you encounter any issues or have any questions about EthOrb, please don't hes
 
 ## License
 
-EthOrb is licensed under the [Apache 2.0 License](LICENSE.md). Feel free to use, modify, and distribute EthOrb for both personal and commercial purposes. We only ask that you include the appropriate attribution and disclaimer notices in your projects.
+EthOrb is licensed under the [Apache 2.0 License](LICENSE). Feel free to use, modify, and distribute EthOrb for both personal and commercial purposes. We only ask that you include the appropriate attribution and disclaimer notices in your projects.
 
 ---
 
