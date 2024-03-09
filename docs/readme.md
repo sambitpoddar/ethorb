@@ -1,4 +1,4 @@
-# EthOrb Documentation
+# Documentation
 
 Welcome to the official documentation for EthOrb! EthOrb is a comprehensive Python package designed to simplify interaction with Ethereum blockchain networks. This documentation serves as a guide for users and developers on how to effectively utilize the features and functionalities offered by EthOrb.
 
