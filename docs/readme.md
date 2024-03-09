@@ -44,6 +44,6 @@ We welcome contributions from the community to improve and enhance EthOrb. Wheth
 
 ## License
 
-EthOrb is distributed under the Apache License 2.0. For details on licensing terms and conditions, please refer to the [License](..LICENSE.md) file.
+EthOrb is distributed under the Apache License 2.0. For details on licensing terms and conditions, please refer to the [License](../LICENSE) file.
 
 Thank you for choosing EthOrb! We hope this documentation helps you make the most out of our package. If you have any questions or encounter any issues, please don't hesitate to reach out to us.
