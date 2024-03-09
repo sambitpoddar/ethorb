@@ -30,7 +30,7 @@ setuptools.setup(
         "Operating System :: MacOS :: MacOS X",
         "Development Status :: 1 - Planning",
         "Intended Audience :: Developers",
-        " :: Software Development :: Libraries",
+        "Topic :: Software Development :: Libraries",
     ],
     python_requires=">=3.6",
     install_requires=[
