@@ -25,7 +25,7 @@ You can install EthOrb via pip:
 $ pip install ethorb
 ```
 
-For more detailed installation instructions and requirements, please refer to the [Installation Guide](#installation-guide) section in the documentation.
+For more detailed installation instructions and requirements, please refer to the [Installation Guide](docs/installation.md) section in the documentation.
 
 ## Quick Start
 
