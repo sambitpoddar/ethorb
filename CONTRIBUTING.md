@@ -44,7 +44,7 @@ If you encounter any bugs, issues, or have feature requests, please open an issu
 
 ## Code of Conduct
 
-Please note that EthOrb has a [Code of Conduct](code-of-conduct.md) that all contributors are expected to follow. By participating in this project, you agree to abide by its terms.
+Please note that EthOrb has a [Code of Conduct](docs/code-of-conduct.md) that all contributors are expected to follow. By participating in this project, you agree to abide by its terms.
 
 ## Acknowledgements
 
