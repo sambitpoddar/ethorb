@@ -59,11 +59,11 @@ balance = eth_orb.get_balance(address="0x...")
 print("Account balance:", balance)
 ```
 
-For more detailed usage instructions and examples, please refer to the [Usage Guide](#usage-guide) section in the documentation.
+For more detailed usage instructions and examples, please refer to the [Usage Guide](docs/usage.md) section in the documentation.
 
 ## Documentation
 
-For comprehensive documentation, including installation instructions, usage guides, and more, please visit the [EthOrb Documentation](readme.md).
+For comprehensive documentation, including installation instructions, usage guides, and more, please visit the [EthOrb Documentation](docs/readme.md).
 
 ## Authors
 
