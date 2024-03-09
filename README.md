@@ -38,21 +38,25 @@ To begin using EthOrb, follow these simple steps:
 import ethorb
 ```
 
-3. Initialize the EthOrb client with your preferred Ethereum network:
+3. Initialize the EthOrb Blockchain-client with your preferred Ethereum network:
 
 ```python
-from ethorb import ethorb
+from ethorb import Blockchain
 
-# Connect to Ethereum mainnet
-eth = EthOrb(network="mainnet")
+# Connect to Ethereum network.
+eth_orb = Blockchain(network_url="https://mainnet.infura.io/v3/YOUR_INFURA_PROJECT_ID")
+
 ```
+
+This URL could be for mainnet, testnets like ropsten or rinkeby, or any custom network URL.
+
 
 4. Start interacting with Ethereum blockchain networks seamlessly:
 
 ```python
-# Get the latest block number
-latest_block_number = eth.get_latest_block_number()
-print("Latest Block Number:", latest_block_number)
+# Get account balance
+balance = eth_orb.get_balance(address="0x...")
+print("Account balance:", balance)
 ```
 
 For more detailed usage instructions and examples, please refer to the [Usage Guide](#usage-guide) section in the documentation.
