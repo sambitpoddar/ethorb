@@ -1,4 +1,4 @@
-<img src="https://github.com/sambitpoddar/ethorb/blob/main/ethorblogo.png" alt="EthOrb Logo" width="300"/>
+<center><img src="https://github.com/sambitpoddar/ethorb/blob/main/ethorblogo.png" alt="EthOrb Logo" width="300"/></center>
 
 # EthOrb: A Powerful for seamless interaction with Ethereum blockchain networks.
 
