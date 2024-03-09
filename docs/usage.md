@@ -139,4 +139,4 @@ Convert an amount from Wei to Ether.
 - Returns:
   - `Union[int, float]`: The amount converted to the specified unit.
 
-This concludes the Usage Guide for the EthOrb package. If you have any further questions or need assistance, please don't hesitate to raise an [issue](https://github.com/sambitpoddar/ethorb/issues).
+This concludes the Usage Guide for the EthOrb package. If you have any further questions or need assistance, please don't hesitate to [open an issue](https://github.com/sambitpoddar/ethorb/issues) on GitHub.
