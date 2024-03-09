@@ -63,7 +63,7 @@ For more detailed usage instructions and examples, please refer to the [Usage Gu
 
 ## Documentation
 
-For comprehensive documentation, including installation instructions, usage guides, and more, please visit the [EthOrb Documentation](index.md).
+For comprehensive documentation, including installation instructions, usage guides, and more, please visit the [EthOrb Documentation](readme.md).
 
 ## Authors
 
