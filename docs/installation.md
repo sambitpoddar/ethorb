@@ -57,7 +57,7 @@ Now that EthOrb is installed and configured, you can start using it to interact 
 
 ## Support
 
-If you have any further questions or need assistance, please don't hesitate to inform. You can always join EthOrb's GitHub Discussion.
+If you encounter any issues or have any questions about EthOrb, please don't hesitate to [open an issue](https://github.com/ethorb/ethorb/issues) on GitHub. Our community is here to help you resolve any problems and provide support as needed.
 
 ---
 
