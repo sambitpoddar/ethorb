@@ -40,10 +40,10 @@ For more comprehensive usage examples and detailed API documentation, please ref
 
 ## Contributing
 
-We welcome contributions from the community to improve and enhance EthOrb. Whether it's bug fixes, feature additions, or documentation improvements, your contributions are valuable to us. Please read our [Contribution Guidelines](CONTRIBUTING.md) to learn how you can contribute to EthOrb.
+We welcome contributions from the community to improve and enhance EthOrb. Whether it's bug fixes, feature additions, or documentation improvements, your contributions are valuable to us. Please read our [Contribution Guidelines](https://github.com/sambitpoddar/ethorb/CONTRIBUTING.md) to learn how you can contribute to EthOrb.
 
 ## License
 
-EthOrb is distributed under the Apache License 2.0. For details on licensing terms and conditions, please refer to the [License](LICENSE.md) file.
+EthOrb is distributed under the Apache License 2.0. For details on licensing terms and conditions, please refer to the [License](https://github.com/sambitpoddar/ethorb/LICENSE.md) file.
 
 Thank you for choosing EthOrb! We hope this documentation helps you make the most out of our package. If you have any questions or encounter any issues, please don't hesitate to reach out to us.
