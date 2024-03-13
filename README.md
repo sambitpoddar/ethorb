@@ -1,8 +1,8 @@
 [![Last commit](https://img.shields.io/github/last-commit/sambitpoddar/audocgen)](https://github.com/sambitpoddar/audocgen/commits/main)
 [![Code Size](https://img.shields.io/github/languages/code-size/sambitpoddar/audocgen)](https://github.com/sambitpoddar/audocgen)
+[![Python3.11](https://img.shields.io/badge/Python-3.11-green.svg?style=flat-square)](https://www.python.org/downloads/release/python-2714/)
 [![PyPI version](https://badge.fury.io/py/your-package-name.svg)](https://badge.fury.io/py/your-package-name)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Python3.11](https://img.shields.io/badge/Python-3.11-green.svg?style=flat-square)](https://www.python.org/downloads/release/python-2714/) 
 <center><img src="assets/ethorblogo.png" alt="EthOrb Logo" width="300"/></center>
 
 # EthOrb: A powerful toolkit for seamless interaction with Ethereum blockchain networks.
